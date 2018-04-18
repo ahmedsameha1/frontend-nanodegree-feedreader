@@ -60,3 +60,9 @@ http://underscorejs.org/#has
 http://jquery.com/
 
 https://stackoverflow.com/a/11643322 by method.
+
+
+HOW TO RUN
+==========
+
+Open index.html using your browswer
